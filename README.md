@@ -2,8 +2,8 @@
 ## Sobre o Projeto
 
 Este projeto é uma solução de ponta a ponta para um desafio de previsão de demanda, utilizando um dataset do Kaggle com 5 anos de histórico de vendas de 50 produtos em 10 lojas diferentes. O objetivo foi transformar dados brutos em uma ferramenta de negócio acionável, capaz de prever vendas futuras e fornecer insights estratégicos e operacionais.
-
 A análise completa, desde a exploração dos dados até a otimização de modelos, foi consolidada em um **dashboard interativo construído com Streamlit**, permitindo a análise granular das previsões.
+
 ---
 ## Principais Funcionalidades
 
